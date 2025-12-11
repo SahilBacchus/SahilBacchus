@@ -71,3 +71,27 @@
 > - perline=3 -> number of icons per line
 
 > repo: https://github.com/tandpfun/skill-icons
+
+
+---
+
+
+## GitHub Cards
+
+
+### Profile Card
+
+<img alt="profile card" src="https://githubcard.com/SahilBacchus.svg?d=fgXx6b2Q">
+
+> website: https://githubcard.com/~profile-card  
+> continue editing: https://githubcard.com/SahilBacchus/card/edit  
+> note: there are many more styles to choose from in website 
+
+
+### Repo Card 
+
+<img alt="repo card" src="https://githubcard.com/SahilBacchus/ml-in-assembly.svg?d=2GUHnMl9">
+
+> website: https://githubcard.com/~repo-card  
+> continue editing: https://githubcard.com/SahilBacchus/ml-in-assembly/card/edit  
+> note: there are many more styles to choose from in website 

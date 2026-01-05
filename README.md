@@ -4,7 +4,7 @@ I build things across **machine learning, full-stack web, and embedded systems**
 
 - 📍 Calgary, Canada  
 - 🎓 Software Engineering student at the **University of Calgary**
-- 🎯 Seeking a **12–16 month internship starting May 2026**
+- 🎯 Seeking a **12-16 month internship starting May 2026**
 
 ### 🛠️ Tech Stack
 
@@ -14,17 +14,16 @@ I build things across **machine learning, full-stack web, and embedded systems**
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Assembly](https://img.shields.io/badge/Assembly-RISC--V-283272)
+![RISC-V Assembly](https://img.shields.io/badge/RISC--V_Assembly-283272?logo=riscv&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?logo=powershell&logoColor=white)
 
 **Web:**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-005571)
 
 
 **ML & Data:**  

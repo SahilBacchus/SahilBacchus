@@ -1,10 +1,11 @@
 ## Hi 👋 I'm Sahil Bacchus
 
-I build things across **machine learning, full-stack web, and embedded systems**.
+I build things across **machine learning, full-stack apps, and embedded systems**. I love exploring how things work under the hood, from assembly-level code to deployed ML systems.  
 
 - 📍 Calgary, Canada  
-- 🎓 Software Engineering student at the **University of Calgary**
-- 🎯 Seeking a **12-16 month internship starting May 2026**
+- 🎓 Software Engineering student @ University of Calgary
+- 🔍 Forever curious, always exploring new tech and tinkering
+
 
 ### 🛠️ Tech Stack
 
